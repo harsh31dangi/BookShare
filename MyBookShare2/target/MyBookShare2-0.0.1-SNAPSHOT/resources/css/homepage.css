@@ -1,0 +1,39 @@
+@charset "ISO-8859-1";
+
+		img {
+			height:180px;
+			width: 180px;
+			margin-top: 10px;
+			margin-left: auto;
+			margin-right: auto;
+			display: block;
+			border-radius: 10px;
+		}
+		.d1 {
+			display: flex;
+			flex-wrap: wrap;
+		}
+		.d2{
+			height: 50px;
+			width: 100%;
+		}
+		.d3{
+			height: auto;
+			max-width: 700px;
+			max-height: 600px;
+			border: 1px solid black;
+			border-color: rgb(7, 119, 249);
+			border-radius: 10px;
+		}
+		.imgDiv{
+			height: 200px;
+		}
+		.cardDiv{
+			height: 150px;
+			width: 200px;
+			float: right;
+		}
+		.badge{
+			font-size: 115%;
+			margin: 10px;
+		}

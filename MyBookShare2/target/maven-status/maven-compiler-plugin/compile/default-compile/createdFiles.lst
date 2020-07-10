@@ -1,0 +1,17 @@
+com\bookshare\controller\BookController.class
+com\bookshare\Application.class
+com\bookshare\HibernateConfiguration.class
+com\bookshare\service\BookServiceImpl.class
+com\bookshare\dao\UserDAO.class
+com\bookshare\model\WishlistVO.class
+com\bookshare\service\BookService.class
+com\bookshare\service\UserService.class
+com\bookshare\dao\UserDAOImpl.class
+com\bookshare\service\UserServiceImpl.class
+com\bookshare\model\SubjectVO.class
+com\bookshare\model\BookVO.class
+com\bookshare\model\UserVO.class
+com\bookshare\model\BranchVO.class
+com\bookshare\controller\UserController.class
+com\bookshare\dao\BookDAOImpl.class
+com\bookshare\dao\BookDAO.class
